@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\Pages\\SignIn.razor.js",
+      "PackagePath": "staticwebassets\\Pages\\SignIn.razor.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\obj\\Debug\\net7.0\\build-gz\\53wnVrFT.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\RxChatApp.styles.css",
+      "PackagePath": "staticwebassets\\RxChatApp.styles.css"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\obj\\Debug\\net7.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\obj\\Debug\\net7.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app.min.css"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.min.css"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\boxicons.svg@",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.svg@"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\cerebrisans-bold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cerebrisans-bold.eot"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\cerebrisans-bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cerebrisans-bold.woff"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\cerebrisans-light.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cerebrisans-light.eot"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\cerebrisans-light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cerebrisans-light.woff"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\cerebrisans-medium.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cerebrisans-medium.eot"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\cerebrisans-medium.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cerebrisans-medium.woff"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\cerebrisans-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cerebrisans-regular.eot"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\cerebrisans-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cerebrisans-regular.woff"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\cerebrisans-semibold.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cerebrisans-semibold.eot"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\cerebrisans-semibold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\cerebrisans-semibold.woff"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.eot@",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.eot@"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.eot@v=5.0.45",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.eot@v=5.0.45"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.ttf@v=5.0.45",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.ttf@v=5.0.45"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff2@v=5.0.45",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.woff2@v=5.0.45"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\materialdesignicons-webfont.woff@v=5.0.45",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfont.woff@v=5.0.45"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\remixicon.eot@t=1580819880586",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon.eot@t=1580819880586"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\remixicon.svg@t=1580819880586",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon.svg@t=1580819880586"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\remixicon.ttf@t=1580819880586",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon.ttf@t=1580819880586"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\remixicon.woff2@t=1580819880586",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon.woff2@t=1580819880586"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\fonts\\remixicon.woff@t=1580819880586",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon.woff@t=1580819880586"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\auth-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\auth-img.png"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\bg-pattern\\pattern-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-pattern\\pattern-01.png"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\bg-pattern\\pattern-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-pattern\\pattern-02.png"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\bg-pattern\\pattern-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-pattern\\pattern-03.png"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\bg-pattern\\pattern-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-pattern\\pattern-04.png"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\bg-pattern\\pattern-05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-pattern\\pattern-05.png"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\bg-pattern\\pattern-06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-pattern\\pattern-06.png"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\bg-pattern\\pattern-07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-pattern\\pattern-07.png"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\bg-pattern\\pattern-08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-pattern\\pattern-08.png"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\bg-pattern\\pattern-09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-pattern\\pattern-09.png"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\small\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\small\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\small\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-3.jpg"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\small\\img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-4.jpg"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\users\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\images\\users\\user-dummy-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\user-dummy-img.jpg"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\js\\dir\\callList.json",
+      "PackagePath": "staticwebassets\\assets\\js\\dir\\callList.json"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\js\\dir\\chats.json",
+      "PackagePath": "staticwebassets\\assets\\js\\dir\\chats.json"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\js\\dir\\contacts.json",
+      "PackagePath": "staticwebassets\\assets\\js\\dir\\contacts.json"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\js\\dir\\users.json",
+      "PackagePath": "staticwebassets\\assets\\js\\dir\\users.json"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\js\\pages\\index.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\index.init.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\js\\pages\\password-addon.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\password-addon.init.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\js\\pages\\theme-style.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\theme-style.init.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\js\\pages\\validation.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\validation.init.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\libs\\fg-emoji-picker\\fgEmojiPicker.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fg-emoji-picker\\fgEmojiPicker.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\libs\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\libs\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\libs\\node-waves\\waves.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\node-waves\\waves.min.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\libs\\simplebar\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\simplebar\\simplebar.min.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\libs\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\assets\\libs\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\js\\CommonForChat.js",
+      "PackagePath": "staticwebassets\\js\\CommonForChat.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\lib\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\signalr.js"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\ChatApp\\RxChatApp\\RxChatApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.RxChatApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.RxChatApp.props",
+      "PackagePath": "build\\RxChatApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.RxChatApp.props",
+      "PackagePath": "buildMultiTargeting\\RxChatApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.RxChatApp.props",
+      "PackagePath": "buildTransitive\\RxChatApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
